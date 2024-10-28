@@ -1,0 +1,44 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Examination:war exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/Examination_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Examination" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="annotations-java5-15.0.jar" module-name="Examination" />
+          <element id="library" level="module" name="aspectjweaver-1.8.10.jar" module-name="Examination" />
+          <element id="library" level="module" name="c3p0-0.9.5.2.jar" module-name="Examination" />
+          <element id="library" level="module" name="classmate-1.3.1.jar" module-name="Examination" />
+          <element id="library" level="module" name="commons-beanutils-1.8.3.jar" module-name="Examination" />
+          <element id="library" level="module" name="commons-logging-1.2.jar" module-name="Examination" />
+          <element id="library" level="module" name="hibernate-validator-5.4.1.Final.jar" module-name="Examination" />
+          <element id="library" level="module" name="jboss-logging-3.3.0.Final.jar" module-name="Examination" />
+          <element id="library" level="module" name="jstl-1.2.jar" module-name="Examination" />
+          <element id="library" level="module" name="log4j-1.2.17.jar" module-name="Examination" />
+          <element id="library" level="module" name="mchange-commons-java-0.2.11.jar" module-name="Examination" />
+          <element id="library" level="module" name="mybatis-3.4.1.jar" module-name="Examination" />
+          <element id="library" level="module" name="mybatis-generator-core-1.3.5.jar" module-name="Examination" />
+          <element id="library" level="module" name="mybatis-spring-1.3.0.jar" module-name="Examination" />
+          <element id="library" level="module" name="mysql-connector-java-5.1.41.jar" module-name="Examination" />
+          <element id="library" level="module" name="shiro-core-1.2.3.jar" module-name="Examination" />
+          <element id="library" level="module" name="shiro-spring-1.2.3.jar" module-name="Examination" />
+          <element id="library" level="module" name="shiro-web-1.2.3.jar" module-name="Examination" />
+          <element id="library" level="module" name="slf4j-api-1.6.4.jar" module-name="Examination" />
+          <element id="library" level="module" name="spring-aop-4.3.9.RELEASE.jar" module-name="Examination" />
+          <element id="library" level="module" name="spring-beans-4.3.8.RELEASE.jar" module-name="Examination" />
+          <element id="library" level="module" name="spring-context-4.3.8.RELEASE.jar" module-name="Examination" />
+          <element id="library" level="module" name="spring-core-4.3.8.RELEASE.jar" module-name="Examination" />
+          <element id="library" level="module" name="spring-expression-4.3.8.RELEASE.jar" module-name="Examination" />
+          <element id="library" level="module" name="spring-jdbc-4.2.5.RELEASE.jar" module-name="Examination" />
+          <element id="library" level="module" name="spring-tx-4.3.8.RELEASE.jar" module-name="Examination" />
+          <element id="library" level="module" name="spring-web-4.3.8.RELEASE.jar" module-name="Examination" />
+          <element id="library" level="module" name="spring-webmvc-4.3.7.RELEASE.jar" module-name="Examination" />
+          <element id="library" level="module" name="validation-api-1.1.0.Final.jar" module-name="Examination" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="Examination/web/Web" />
+    </root>
+  </artifact>
+</component>
